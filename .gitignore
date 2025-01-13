@@ -1,0 +1,12 @@
+# Ignore build output directory
+build/
+Debug/
+Release/
+
+# Ignore temporary files
+*.o
+*.d
+*.elf
+*.map
+*.hex
+*.bin
